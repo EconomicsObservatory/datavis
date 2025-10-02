@@ -1,0 +1,18 @@
+local/*
+.cursor*
+.cursorrules
+*.env
+node_modules
+dist
+build
+.next
+.nuxt
+.vscode
+.DS_Store
+
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*/draft/*
+
+# any file starting with 'ALT_' - alternative chart files not used in production
+ALT_*
