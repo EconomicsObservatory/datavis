@@ -1,1 +1,52 @@
-{"title": "War and inflation", "date": "2025-06-27", "authors": "Richard Davies, Josh Hellings, Finn McEvoy", "subtitle": "Will prices surge? ", "intro": "What will the impact of the recent hostilities between Israel and Iran be for the global economy? As yet, markets have been pretty stable \u2013 but many are worried that oil prices could spike, sending inflation across the globe. Given these concerns, this week we look at \u2026", "url": "https://daviesrichard.substack.com/p/war-and-inflation"}
+{
+    "title": "War and inflation",
+    "date": "2025-06-27",
+    "authors": "Richard Davies, Josh Hellings, Finn McEvoy",
+    "subtitle": "Will prices surge? ",
+    "intro": "What will the impact of the recent hostilities between Israel and Iran be for the global economy? As yet, markets have been pretty stable \u2013 but many are worried that oil prices could spike, sending inflation across the globe. Given these concerns, this week we look at \u2026",
+    "url": "https://daviesrichard.substack.com/p/war-and-inflation",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Silver content in coins",
+            "source": "Pense (timeseries, 1992), Walker (1976-78) via Velatrix (individual observations)",
+            "note": "",
+            "filename": "fig1_"
+        },
+        {
+            "id": 2,
+            "title": "The Edict on Maximum Prices",
+            "source": "Kropff’s (2016) English translation",
+            "note": "",
+            "filename": "fig2_"
+        },
+        {
+            "id": 3,
+            "title": "UK oil prices, 1960-1990",
+            "source": "Bank of England via FRED (series OLPRUKA)",
+            "note": "",
+            "filename": "fig3_uk-oil-prices"
+        },
+        {
+            "id": 4,
+            "title": "Inflation, 1965-1990",
+            "source": "World Bank",
+            "note": "",
+            "filename": "fig4_inflation-big4"
+        },
+        {
+            "id": 5,
+            "title": "Natural gas prices",
+            "source": "World Bank Commodity Price Data (The Pink Sheet)",
+            "note": "Prices are measured in MMBtu (Million British Thermal Units)",
+            "filename": "fig5_"
+        },
+        {
+            "id": 6,
+            "title": "Global wheat prices",
+            "source": "International Monetary Fund, Global price of Wheat via FRED (PWHEAMTUSDM)",
+            "note": "",
+            "filename": "fig6_"
+        }
+    ]
+}
