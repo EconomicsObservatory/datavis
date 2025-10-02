@@ -1,1 +1,52 @@
-{"title": "Fixing Britain: how can left behind regions catch up? ", "date": "2025-06-06", "authors": "Richard Davies, Hannah Cantekin, Josh Hellings, Finn McEvoy", "subtitle": "Economic divisions are wide in the UK - and growing elsewhere too. In a two-part letter we dive into the UK data before asking what we can learn from overseas: how can lagging places catch up? ", "intro": "Can a divided nation be healed? This week we look at regional disparities in the UK, sharing some striking new charts and maps on jobs, wages and productivity in Britain. From Lewisham\u2019s wretched productivity (the lowest in Britain) to spiralling house prices in Shetland", "url": "https://daviesrichard.substack.com/p/fixing-britain-how-can-left-behind"}
+{
+    "title": "Fixing Britain: how can left behind regions catch up? ",
+    "date": "2025-06-06",
+    "authors": "Richard Davies, Hannah Cantekin, Josh Hellings, Finn McEvoy",
+    "subtitle": "Economic divisions are wide in the UK - and growing elsewhere too. In a two-part letter we dive into the UK data before asking what we can learn from overseas: how can lagging places catch up? ",
+    "intro": "Can a divided nation be healed? This week we look at regional disparities in the UK, sharing some striking new charts and maps on jobs, wages and productivity in Britain. From Lewisham\u2019s wretched productivity (the lowest in Britain) to spiralling house prices in Shetland",
+    "url": "https://daviesrichard.substack.com/p/fixing-britain-how-can-left-behind",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Chart 1. Weekly pay in the UK",
+            "source": "DWP via House of Commons Library",
+            "note": "Median weekly income, equivalised 2023/24 prices",
+            "filename": "fig1_"
+        },
+        {
+            "id": "map1",
+            "title": "Median weekly pay, 2024",
+            "source": "ONS",
+            "note": "Median gross weekly pay for full-time employees in 2024 for all local authorities in Great Britain, and in-aggregate for Northern Ireland, by place of work. Deviation from UK average shown.",
+            "filename": "fig2_local-authority-pay"
+        },
+        {
+            "id": 2,
+            "title": "Pay and jobs, 1997 vs 2024",
+            "source": "ONS",
+            "note": "",
+            "filename": "fig3_"
+        },
+        {
+            "id": "map2",
+            "title": "Labour productivity, 2022",
+            "source": "ONS",
+            "note": "GVA per hour for each ITL3 area, relative to UK average exclusive of output that cannot be assigned to an area.",
+            "filename": "fig4_relative-productivity-itl3"
+        },
+        {
+            "id": 3,
+            "title": "Productivity – by home nation and local authority",
+            "source": "ONS Subregional Productivity June 2024 release",
+            "note": "2022 GVA per hour in ITL3 subregions, current prices",
+            "filename": "fig5_productivity-itl3"
+        },
+        {
+            "id": "map3",
+            "title": "Local authorities - debt and demographics",
+            "source": "MHCLG via House of Commons Library",
+            "note": "Ratio of borrowing to assets at each local authority. Excludes City of London & Shetland Islands. mid-2024 data.",
+            "filename": "fig6_map_debt-demographics"
+        }
+    ]
+}
