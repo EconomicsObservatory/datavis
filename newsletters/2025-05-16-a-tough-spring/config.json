@@ -1,0 +1,38 @@
+{
+    "title": "A tough spring",
+    "date": "2025-05-16",
+    "authors": "Richard Davies, Hannah Cantekin, Camila Arroyo",
+    "subtitle": "This week we look at jobs and pay. Big policy changes\u2014to taxation, and to minimum wages\u2014were put in place in April. It could be a tough spring for young workers. ",
+    "intro": "What are the most important measures in an economy? Is it imports and exports? With all the recent trade talk\u2014including our newsletters on Liberation Day and Britain\u2019s Steel crisis\u2014you might think so. Perhaps it is investment or R&D spending? These things certainly matter, but they don\u2019t matter the most. The top spot is reserved for labour market measur\u2026",
+    "url": "https://daviesrichard.substack.com/p/a-tough-spring",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Pay is rising",
+            "source": "ONS",
+            "note": "",
+            "filename": "fig1_uk-pay-growth"
+        },
+        {
+            "id": 2,
+            "title": "Unemployment is creeping up",
+            "source": "ONS",
+            "note": "",
+            "filename": "fig2_uk-pay-growth"
+        },
+        {
+            "id": 3,
+            "title": "Total vacancies",
+            "source": "ONS",
+            "note": "",
+            "filename": "fig3_uk-pay-growth"
+        },
+        {
+            "id": 4,
+            "title": "Is UK’s NEET problem returning?",
+            "source": "ONS",
+            "note": "NEET, young people (aged 16 to 24 years) who are not in education, employment or training, by age and sex.",
+            "filename": "fig4_uk-pay-growth"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Anglo-American \u2013 A Tale of Two Deficits",
+    "date": "2025-04-11",
+    "authors": "Richard Davies, Josh Hellings, Finn McEvoy",
+    "subtitle": "From the US to the UK, from Beirut to Bluey \u2013 what do deficits tell us about where trade policy might go next? ",
+    "intro": "This week we look in depth at the deficit that has driven America\u2019s recent market-shaking policies. Tariffs are on pause for 90 days, except for China, and it is unclear what might come next. Understanding the deficit \u2013 since it is motivating policy ideas in the United States \u2013 might help. We also take a whistle-stop tour of Lebanon, and work out what r\u2026",
+    "url": "https://daviesrichard.substack.com/p/anglo-american-a-tale-of-two-deficits",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Current account balance",
+            "source": "UK ONS, US BEA",
+            "note": "",
+            "filename": "fig1_uk-us-current-account"
+        },
+        {
+            "id": 2,
+            "title": "Outstanding debt, world's largest countries",
+            "source": "IMF Fiscal Monitor (WEO October 2024)",
+            "note": "",
+            "filename": "fig2_debt-gdp-p21"
+        },
+        {
+            "id": 2,
+            "title": "Outstanding debt, world's largest countries",
+            "source": "IMF Fiscal Monitor (WEO October 2024)",
+            "note": "",
+            "filename": "fig2_debt-gdp-p21"
+        },
+        {
+            "id": 3,
+            "title": "Trade balance",
+            "source": "UK ONS, US BEA",
+            "note": "",
+            "filename": "fig3_uk-us-trade-balance"
+        },
+        {
+            "id": 4,
+            "title": "Primary income",
+            "source": "UK ONS, US BEA",
+            "note": "‘Other’ includes the compensation of employees, reserve assets, and other investments",
+            "filename": ["fig4a_uk-primary-income", "fig4b_us-primary-income"]
+        },
+        {
+            "id": 5,
+            "title": "Lebanon, remittances",
+            "source": "IMF",
+            "note": "",
+            "filename": "fig5_lebanon-remittances"
+        }
+    ]
+}

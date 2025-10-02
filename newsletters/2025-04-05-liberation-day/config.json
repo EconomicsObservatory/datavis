@@ -1,0 +1,51 @@
+{
+    "title": "Liberation Day",
+    "date": "2025-04-05",
+    "authors": ["Richard Davies", "Finn McEvoy", "Josh Hellings"],
+    "description": "The new realities of global trade. The first installment of our re-launched newsletter.",
+    "url": "https://daviesrichard.substack.com/p/liberation-day",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Reciprocal tariffs, major trading partners",
+            "source": "US Census Bureau, USTR",
+            "note": "Top 15 US trading partners, excluding Mexico and Canada. *EU countries subject to same tariff. Does not include existing tariffs.",
+            "filename": "fig1_reciprocal-tariffs"
+        },
+        {
+            "id": 2,
+            "title": "Top UK exports to the US",
+            "source": "UN COMTRADE",
+            "note": "SITC level 2",
+            "filename": "fig2_uk-exports-to-us"
+        },
+        {
+            "id": 3,
+            "title": "UK exports to the US, by transport mode",
+            "source": "UN COMTRADE",
+            "note": "Other includes unclassified flows, as well as low volume modes including ‘postal consignment’ and ‘self-propelled goods’.",
+            "filename": "fig3_uk-exports-us-mode"
+        },
+        {
+            "id": 4,
+            "title": "USD-GBP exchange rate, 2005-present",
+            "source": "Bank of England",
+            "note": "",
+            "filename": "fig4_usd-gbp-exchange-rate"
+        },
+        {
+            "id": 5,
+            "title": "“US Tariffs will do more harm than good” agreement by partisanship.",
+            "source": "Ipsos/Reuters",
+            "note": "Polling of 1,486 U.S. residents, March 31 to April 2, 2025",
+            "filename": "fig5_survey-tariff-harm"
+        },
+        {
+            "id": 6,
+            "title": "“Do you support or oppose retaliatory tariffs on US goods?”",
+            "source": "YouGov",
+            "note": "Poll of 9,452 adults in Denmark, Sweden, Spain, France, Great Britain, Germany, Italy ",
+            "filename": "fig6_survey-retaliatory-tariffs"
+        }
+    ]
+}

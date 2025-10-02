@@ -1,0 +1,31 @@
+{
+    "title": "Steel II. The price effect.",
+    "date": "2025-05-02",
+    "authors": "Richard Davies, Finn McEvoy, Josh Hellings, Hannah Cantekin",
+    "subtitle": "The second instalment in our steel trilogy looks back to the 2016 steel crisis, the policy causes and responses, and the lessons for today. ",
+    "intro": "The steel crisis continues. In Scunthorpe, the materials (coke and iron ore) needed to keep the UK\u2019s last blast furnace running have arrived. But the long-term plan has not yet been announced, and questions are being asked in Port Talbot, where Britain\u2019s penultimate furnace went cold last autumn. This will rumble on, so our steel trilogy attempts to ste\u2026",
+    "url": "https://daviesrichard.substack.com/p/steel-ii-the-price-effect",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Domestic steel prices – hot rolled coil",
+            "source": "Custeel (China) and CME (USA) via Refinitiv",
+            "note": "Chinese spot quotes include VAT, CRU/CME front-month futures are ex-works and without VAT.",
+            "filename": "fig1_steel-price"
+        },
+        {
+            "id": 2,
+            "title": "US appliance imports",
+            "source": "COMTRADE and BLS via FRED",
+            "note": "US imports of HS 845011, 845020, and 845090, and 842211, inflation-adjusted with US CPI, and indexed to 2017=100.",
+            "filename": "fig2_us-appliance-imports"
+        },
+        {
+            "id": 3,
+            "title": "US imports of steel articles",
+            "source": "COMTRADE, IMF IFS",
+            "note": "US imports of steel articles (HS chapter 73). Does not include raw and semi-finished steel imports (Chapter 72), of which China is a less dominant exporter. Data are inflation adjusted following the US GDP deflator.",
+            "filename": "fig3_us-steel-imports"
+        }
+    ]
+}

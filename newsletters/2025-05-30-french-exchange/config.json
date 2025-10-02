@@ -1,0 +1,52 @@
+{
+    "title": "French exchange",
+    "date": "2025-05-30",
+    "authors": "Richard Davies, Finn McEvoy, Josh Hellings",
+    "subtitle": "The old rivals of Europe have a new economic deal. From cooperation on jet engines to a spat over sea snails, who does best out of Anglo-French trade? ",
+    "intro": "Britain\u2019s relations with France have shifted in recent weeks. A new economic deal with the EU was struck\u2014one with a distinctly French flavour. Yet just a few days later the French navy impounded a British ship. It is the latest chapter in a turbulent history - one of partnership and rivalry. How do the two economies compare in 2025? What are the gains f\u2026",
+    "url": "https://daviesrichard.substack.com/p/french-exchange",
+    "charts": [
+        {
+            "id": 1,
+            "title": "UK and France key figures",
+            "source": "IMF, World Bank",
+            "note": "",
+            "filename": "fig1_"
+        },
+        {
+            "id": 2,
+            "title": "Goods trade",
+            "source": "UN Comtrade, 2024 data.",
+            "note": "Top 10 products in 2-digit HS chapters.",
+            "filename": "fig2_goods-trade"
+        },
+        {
+            "id": 3,
+            "title": "British supermarkets — food from France",
+            "source": "Davies & Hellings (2025)",
+            "note": "COICOP food & drink divisions with highest share of French origin. ‘*' indicates categories with fewer than 50 product observations.",
+            "filename": "fig3_"
+        },
+        {
+            "id": "map1",
+            "title": "The French in Great Britain",
+            "source": "ONS (2021 census, England and Wales), NRS (2022 census, Scotland)",
+            "note": "",
+            "filename": "fig4_"
+        },
+        {
+            "id": "map2",
+            "title": "Britons in France",
+            "source": "INSEE (2016 census, France)",
+            "note": "",
+            "filename": "fig5_"
+        },
+        {
+            "id": "map3",
+            "title": "The UK Exclusive Economic Zone",
+            "source": "Parliament, 8th Report of Session 2016-17, HL Paper 78.",
+            "note": "",
+            "filename": "fig6_"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Pastries, pints and price pressures",
+    "date": "2025-05-23",
+    "authors": "Richard Davies, Hannah Cantekin, Finn McEvoy",
+    "subtitle": "This week we look at prices, selecting two staples that are getting more expensive and which tell stories about Britain's economic divisions, and its changing high streets.",
+    "intro": "Prices made the headlines this week. Inflation jumped to 3.5%, rising more than economists had expected. In today\u2019s letter we dive deep into the data.",
+    "url": "https://daviesrichard.substack.com/p/pastries-pints-and-price-pressures",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Food verses CPI basket of goods",
+            "source": "ONS",
+            "note": "",
+            "filename": "fig1_"
+        },
+        {
+            "id": 2,
+            "title": "The rising price of a pastry and a pint",
+            "source": "ONS, Statista",
+            "note": "",
+            "filename": "fig2_"
+        },
+        {
+            "id": "map1",
+            "title": "Regional pricing: sausage rolls and pints of Guinness",
+            "source": "Author’s illustration using Wetherspoons and Greggs data",
+            "note": "",
+            "filename": "fig3_"
+        },
+        {
+            "id": 3,
+            "title": "Greggs vs Pret Britain",
+            "source": "Author’s illustration with Pret and Greggs data",
+            "note": "Every Pret A Manger and Greggs location in the UK.",
+            "filename": "fig4_"
+        },
+        {
+            "id": 4,
+            "title": "Where have all the pubs gone?",
+            "source": "BBPA",
+            "note": "",
+            "filename": "fig5_"
+        },
+        {
+            "id": 5,
+            "title": "UK beer duty one of highest in Europe",
+            "source": "BBPA",
+            "note": "",
+            "filename": "fig6_"
+        }
+    ]
+}

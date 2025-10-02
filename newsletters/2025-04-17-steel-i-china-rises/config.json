@@ -1,0 +1,52 @@
+{
+    "title": "Steel I: China rises",
+    "date": "2025-04-17",
+    "authors": "Richard Davies, Josh Hellings, Finn McEvoy",
+    "subtitle": "The first in a three-part series. The era of Chinese steel, and the strategies\u2014including state subsidies\u2014that have led to its dominant position. ",
+    "intro": "The UK is in the grip of a steel crisis. With full nationalisation of the Scunthorpe works\u2014home to the country\u2019s last functional blast furnace\u2014on the cards, we are devoting three newsletters to steel.",
+    "url": "https://daviesrichard.substack.com/p/steel-i-china-rises",
+    "charts": [
+        {
+            "id": 1,
+            "title": "Steel production, market share",
+            "source": "Jernkontoret (2019)",
+            "note": "Before 1922, the UK series covers Great Britain.",
+            "filename": "fig1_steel-production-market-share"
+        },
+        {
+            "id": "map1",
+            "title": "Map 1: Global steel production sites",
+            "source": "Global Energy Monitor.",
+            "note": "The Global Energy Monitor’s Steel Plant Database (2024), tracks 992 plants operating across the world, with an additional 435 announced or under construction.",
+            "filename": "fig2_steel-production-market-share"
+        },
+        {
+            "id": "map2",
+            "title": "Chinese steel sites",
+            "source": "Global Energy Monitor",
+            "note": "Data from 2000 is not exhaustive. Some plants lack capacity data.",
+            "filename": "fig3_steel-production-market-share"
+        },
+        {
+            "id": 2,
+            "title": "Raw steel production, market share",
+            "source": "World Steel (2023), authors' calculations.",
+            "note": "",
+            "filename": "fig4_steel-production-market-share"
+        },
+        {
+            "id": 3,
+            "title": "Industrial policy spending in key economies - 2019",
+            "source": "Centre for Strategic and International Studies (2022)",
+            "note": "",
+            "filename": "fig5_steel-production-market-share"
+        },
+        {
+            "id": 6,
+            "title": "Planned iron and steel installations",
+            "source": "Global Energy Monitor",
+            "note": "Multiple projects at a single plant are only included once.",
+            "filename": "fig6_steel-production-market-share"
+        }
+    ]
+}
