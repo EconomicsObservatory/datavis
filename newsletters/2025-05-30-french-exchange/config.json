@@ -25,21 +25,21 @@
             "title": "British supermarkets — food from France",
             "source": "Davies & Hellings (2025)",
             "note": "COICOP food & drink divisions with highest share of French origin. ‘*' indicates categories with fewer than 50 product observations.",
-            "filename": "fig3_"
+            "filename": "fig3_uk-france-top-food-imports"
         },
         {
             "id": "map1",
             "title": "The French in Great Britain",
             "source": "ONS (2021 census, England and Wales), NRS (2022 census, Scotland)",
             "note": "",
-            "filename": "fig4_"
+            "filename": "fig4_map-french-in-britain"
         },
         {
             "id": "map2",
             "title": "Britons in France",
             "source": "INSEE (2016 census, France)",
             "note": "",
-            "filename": "fig5_"
+            "filename": "fig5_map-britons-in-france"
         },
         {
             "id": "map3",
