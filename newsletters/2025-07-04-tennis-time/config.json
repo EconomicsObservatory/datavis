@@ -40,6 +40,13 @@
             "source": "Wimbledon, AELTC",
             "note": "",
             "filename": "fig5_prize-distribution"
+        },
+        {
+            "id": 6,
+            "title": "Cream  discounts",
+            "source": "Economics Observatory AutoCPI dataset",
+            "note": "Percentage of cream products that are marked price discounts.",
+            "filename": "fig6_cream-discounts"
         }
     ]
 }
